@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_list">8dp</dimen>
+    <dimen name="margin_left">15dp</dimen>
+    <dimen name="margin_top">10dp</dimen>
+    <dimen name="padding_list_add">12dp</dimen>
+    <dimen name="text_size_add">16sp</dimen>
+    <dimen name="padding_list_item">15dp</dimen>
+</resources>

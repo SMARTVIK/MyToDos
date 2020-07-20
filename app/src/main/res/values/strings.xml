@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyToDos</string>
+    <string name="add_new_todo">Add New ToDo</string>
+    <string name="enter_title_here">Enter title here</string>
+    <string name="enter_description_here">"Enter description here "</string>
+    <string name="error_title">Please enter title</string>
+    <string name="error_description">Please enter description</string>
+</resources>
